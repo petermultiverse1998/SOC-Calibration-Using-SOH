@@ -1,0 +1,3 @@
+C:/Users/peter/OneDrive/Desktop/Github/SOC-Calibration-Using-True-SOH/SOC_calibration/cmake-build-debug/CMakeFiles/SOC.dir
+C:/Users/peter/OneDrive/Desktop/Github/SOC-Calibration-Using-True-SOH/SOC_calibration/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/peter/OneDrive/Desktop/Github/SOC-Calibration-Using-True-SOH/SOC_calibration/cmake-build-debug/CMakeFiles/rebuild_cache.dir
